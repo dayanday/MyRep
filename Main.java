@@ -6,5 +6,9 @@ public class Main(
 		System.out.println("time 20140513");
 		
 		System.out.println("master add");
+
+		//branch v1.0 add
+		System.out.println("added by v1.0");
+
 	}
 }
